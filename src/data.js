@@ -1,0 +1,28 @@
+export const data = [
+    {
+        name:"Amit",
+        roll:1,
+        mob:"860264265"
+    },
+    {
+        name:"Rahul",
+        roll:2,
+        mob:"860264264"
+    },{
+        name:"sonam",
+        roll:3,
+        mob:"860264263"
+    },{
+        name:"Monu",
+        roll:4,
+        mob:"860264262"
+    },{
+        name:"Golu",
+        roll:5,
+        mob:"860264261"
+    },{
+        name:"shubham",
+        roll:6,
+        mob:"860264260"
+    }
+]
